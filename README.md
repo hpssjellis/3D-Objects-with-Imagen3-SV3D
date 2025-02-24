@@ -11,7 +11,7 @@ This repository implements the creation of 3D visualizations of objects using St
 
 | Prompt        | Imagen 3 Output       | SV3D Output         |
 |--------------|----------------------|----------------------|
-| A flying red dragon, spitting fire | <p align="center"><img src="assets/dragon.jpg" width="200" height="200"></p> | <p align="center"><img src="assets/dragon.gif" width="200" height="200"></p> |
+| A flying red dragon, spitting fire | <p align="center"><img src="assets/dragon.jpg" width="150" height="150"></p> | <p align="center"><img src="assets/dragon.gif" width="150" height="150"></p> |
 | A humanoid robot with metallic armour, glowing blue eyes | ![Imagen 3 Output](assets/robot.png) | ![SV3D Output](assets/robot.gif) |
 | A steampunk airship floating against a plain white background | ![Imagen 3 Output](assets/airship.png) | ![SV3D Output](assets/airship.gif) |
 | A light blue Lamborghini| ![Imagen 3 Output](assets/car.png) | ![SV3D Output](assets/car.gif) |
