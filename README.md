@@ -12,8 +12,8 @@ This repository implements the creation of 3D visualizations of objects using St
 | Prompt        | Imagen 3 Output       | SV3D Output         |
 |--------------|----------------------|----------------------|
 | <p align="center">A flying red dragon, spitting fire</p> | <p align="center"><img src="assets/dragon.jpg" width="150" height="150"></p> | <p align="center"><img src="assets/dragon.gif" width="150" height="150"></p> |
-| A humanoid robot with metallic armour, glowing blue eyes | ![Imagen 3 Output](assets/robot.png) | ![SV3D Output](assets/robot.gif) |
-| A steampunk airship floating against a plain white background | ![Imagen 3 Output](assets/airship.png) | ![SV3D Output](assets/airship.gif) |
-| A light blue Lamborghini| ![Imagen 3 Output](assets/car.png) | ![SV3D Output](assets/car.gif) |
+| A humanoid robot with metallic armour, glowing blue eyes | <p align="center"><img src="assets/robot.png" width="150" height="150"></p> | <p align="center"><img src="assets/robot.png" width="150" height="150"></p> |
+| A steampunk airship floating against a plain white background | <p align="center"><img src="assets/airship.png" width="150" height="150"></p> | <p align="center"><img src="assets/airship.png" width="150" height="150"></p> |
+| A light blue Lamborghini | <p align="center"><img src="assets/car.png" width="150" height="150"></p> | <p align="center"><img src="assets/car.gif" width="150" height="150"></p> |
 
 
